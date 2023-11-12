@@ -1,1 +1,4 @@
+# ignore the virtual environments, instead upload requirements.txt!
+
+# for the basic_summary folder
 bsenv/
